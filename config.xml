@@ -1,16 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "frappybirdskitzoidtouch.skitzoid.edu.mit.scratch"
+        id          = "cityworld.skitzoid.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Skitzoid's Frappy Bird</name>
+    <name>City World</name>
 
     <description>
         Ann app made using Scratch, Phonegap, github, and PhoneGap
+        Build Your World!
     </description>
 
     <author href="http://scratch.mit.edu/users/skitzoid" email="jetcadet799@gmail.com">
