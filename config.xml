@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cityworld.skitzoid.edu.mit.scratch"
+        id          = "randnumber.skitzoid.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>City World</name>
+    <name>Random Number Generator by Skitzoid</name>
 
     <description>
-        Ann app made using Scratch, Phonegap, github, and PhoneGap
-        Build Your World!
+        This is a random number generator to help you find your true inner randomness
+         Ann app made using Scratch, Phonegap, and github.
     </description>
 
     <author href="http://scratch.mit.edu/users/skitzoid" email="jetcadet799@gmail.com">
